@@ -4,6 +4,20 @@
   font-size: 72px;
   line-height: 76px;        
   text-align: center;  
-  margin: 23.722% auto 32px;
+  margin: -42% auto 32px;
+  
   max-width: 560px;
+}
+/*
+@media screen and (max-width: 1024px) {
+  .cover__title {        
+    margin: 19.327% auto 32px;
+  }
+}*/
+
+@media screen and (max-width: 650px) {
+  .cover__title {        
+    font-size: 32px;
+    line-height: 35px;    
+  }
 }

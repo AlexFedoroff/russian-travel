@@ -1,14 +1,22 @@
 .place__website-link {
+    margin: 0;    
     font-style: normal;
     font-weight: 400;
     font-size: 18px;
-    line-height: 22px;
-    text-decoration-line: underline;
+    line-height: 22px;        
+    text-decoration: none;
     color: #FFFFFF;
+    border-bottom:#FFFFFF 1px solid;  
   }
 
   .place__website-link:hover {
     opacity: 0.8;
     transition: 1s;
+  }
+  
+  @media screen and (max-width: 650px) {
+    .place__website-link {
+      margin: 0 16px;
+    }
   }
   

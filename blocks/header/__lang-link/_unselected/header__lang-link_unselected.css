@@ -1,10 +1,10 @@
 .header__lang-link_unselected {
-  text-decoration: none;  
+  text-decoration: none;
 }
 
 @media screen and (max-width: 375px) {
   .header__lang-link_unselected {
     font-size: 18px;
-    line-height: 20px;
+    line-height: 20px;    
   }
-  }
+}

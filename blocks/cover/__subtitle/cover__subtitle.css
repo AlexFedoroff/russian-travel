@@ -3,7 +3,20 @@
   font-weight: 400;
   font-size: 18px;
   line-height: 22px;
-  text-align: center;
-  margin: 32px auto 245px;
-  max-width: 360px;
+  text-align: center;  
+  margin: 0 auto 20.693%;  
+  max-width: 360px;  
+}
+/*
+@media screen and (max-width: 1024px) {
+  .cover__subtitle {        
+    margin: 0 auto 19.327%;
+  }
+}*/
+
+@media screen and (max-width: 650px) {
+  .cover__subtitle {        
+    font-size: 14px;
+    line-height: 16px;
+  }
 }

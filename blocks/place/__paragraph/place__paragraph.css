@@ -5,3 +5,20 @@
   line-height: 163%;
   margin: 0 0 26px 0;
 }
+
+.place__paragraph:last-child {
+  margin: 0 16px;
+}
+
+@media screen and (max-width: 650px) {
+  .place__paragraph {    
+    margin: 25px 16px;
+  }
+}
+@media screen and (max-width: 940px) {
+  .place__paragraph {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 163%;
+  }
+}
