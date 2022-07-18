@@ -1,0 +1,15 @@
+.intro__list {
+  margin: 33px 0;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 12px;
+  line-height: 18px;
+  list-style: none;
+  color: #FFFFFF;    
+  padding: 0px;
+}
+
+.intro__list_f-light {
+  font-weight: 400;
+  margin: 0;  
+}
