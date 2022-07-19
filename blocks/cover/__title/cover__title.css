@@ -8,12 +8,12 @@
   
   max-width: 560px;
 }
-/*
+
 @media screen and (max-width: 1024px) {
   .cover__title {        
-    margin: 19.327% auto 32px;
+    /*margin: -42% auto 32px;*/
   }
-}*/
+}
 
 @media screen and (max-width: 650px) {
   .cover__title {        
