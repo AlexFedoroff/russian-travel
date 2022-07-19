@@ -2,11 +2,11 @@
 @import url(./__lang-link/header__lang-link.css);
 @import url(./__lang-links/header__lang-links.css);
 
-.header {    
+.header {
     display: flex;
     max-height: 52px;
-    max-width: 1184px;    
-    margin: 28px 48px 56px;    
+    max-width: 1184px;
+    margin: 28px 48px 56px;
     justify-content: space-between;
     /*
     border-color: antiquewhite;

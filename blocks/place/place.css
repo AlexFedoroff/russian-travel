@@ -36,7 +36,7 @@
 
 @media screen and (max-width: 650px) {
   .place {
-    grid-template-columns: 100%;    
+    grid-template-columns: 100%;
     grid-row-gap: 32px;
     grid-template-rows: 35px 46px fit-content fit-content;
     grid-template-areas:
@@ -51,4 +51,4 @@
 
 .place:last-of-type {
   margin: 0;
-} 
+}

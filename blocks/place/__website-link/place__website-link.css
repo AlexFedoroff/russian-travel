@@ -1,12 +1,12 @@
 .place__website-link {
-    margin: 0;    
+    margin: 0;
     font-style: normal;
     font-weight: 400;
     font-size: 18px;
-    line-height: 22px;        
+    line-height: 22px;
     text-decoration: none;
     color: #FFFFFF;
-    border-bottom:#FFFFFF 1px solid;  
+    border-bottom:#FFFFFF 1px solid;
   }
 
   .place__website-link:hover {
@@ -18,5 +18,4 @@
     .place__website-link {
       margin: 0 16px;
     }
-  }
-  
+  }  

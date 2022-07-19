@@ -1,7 +1,7 @@
 .cover__overlay {
     position: relative;
     display: block;
-    width: 100%;        
+    width: 100%;
     background-image: url(../../../images/dmitrii-vaccinium-22833-unsplash.jpg);
     background-size: 100% 100%;
     /*background-size: contain;*/
@@ -29,4 +29,3 @@
     opacity: 0.8;
     transition: 1s;
   }
-  
