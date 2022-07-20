@@ -8,7 +8,7 @@
 .place {
     display: grid;
     max-width: 984px;
-    margin-bottom: 80px;    
+    margin-bottom: 80px;
     grid-template-columns: 460px 1fr;
     grid-template-rows: minmax(92, 152) 1fr;
     grid-column-gap: 40px;
@@ -43,7 +43,7 @@
     "title"
     "url"
     "image"
-    "paragraph";    
+    "paragraph";
     margin-bottom: 50px;
    /* align-items: center;*/
   }
