@@ -5,8 +5,7 @@
 }
 
 @media screen and (max-width: 375px) {
-    .header__lang-links {          
+    .header__lang-links {
       padding: 0 1px 0 0;
       }
-    }
-    
+    }    
