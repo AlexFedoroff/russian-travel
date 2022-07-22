@@ -5,6 +5,7 @@
   line-height: 76px;
   grid-area: title;
   margin: 0;
+  white-space: pre-line;
 }
 
 @media screen and (max-width: 768px) {
@@ -19,5 +20,7 @@
     font-size: 32px;
     line-height: 35px;
     margin: 0 16px;
+    white-space: inherit;
   }
 }
+

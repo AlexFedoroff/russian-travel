@@ -1,6 +1,5 @@
 .intro__list-items-container {
     display: flex;
     align-items: center;
-    margin: 0;
-    max-height: 18px;
+    margin: 0;   
   }
